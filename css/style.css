@@ -1,0 +1,9 @@
+.icon-link {
+  width: 40px;
+  height: 40px;
+  line-height: 40px;
+  display: inline-block;
+}
+body {
+ overflow-x: hidden;
+}
